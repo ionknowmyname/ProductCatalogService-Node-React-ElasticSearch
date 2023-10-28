@@ -2,3 +2,5 @@
 /backend/node_modules
 /frontend/.env
 /frontend/node_modules
+/backend/http_ca.crt
+node_modules
